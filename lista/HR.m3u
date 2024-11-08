@@ -3,3 +3,5 @@
 https://audio.radio-banovina.hr:9998/stream/;*.mp3
 #EXTINF:1,Narodni Radio Goga
 https://cmr-hosting.com:7013/;
+#EXTINF:1,Radio Extra FM
+http://streams.extrafm.hr:8110/stream?628
