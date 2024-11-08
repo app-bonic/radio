@@ -1,4 +1,5 @@
 ﻿# RADIO
 #EXTINF:1,Radio Banovina
 https://audio.radio-banovina.hr:9998/stream/;*.mp3
-
+#EXTINF:1,Narodni Radio Goga
+https://cmr-hosting.com:7013/;
