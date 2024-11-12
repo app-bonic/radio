@@ -8,12 +8,13 @@
 </head>
 <body>
     <header>
-        <h1>App-Bonic Radio</h1>
+        <h3>app-bonic Radio</h3>
     </header>
 
     <section id="station-list">
         <ul id="stations"></ul>
     </section>
+    
     
     <footer>
         <div id="loading-container">
@@ -22,11 +23,12 @@
                 <div id="task-progress"></div>
             </div>
         </div>
-        <h2 id="now-playing">: </h2>
+        
+        <h4 id="now-playing">: </h4>
         <div class="controls">
-            <button onclick="previousStation()">◀◀</button>
+            <button onclick="previousStation()">|◀</button>
             <input type="text" id="search" placeholder="Pretraži stanice" oninput="filterStations()">
-            <button onclick="nextStation()">▶▶</button>
+            <button onclick="nextStation()">▶|</button>
         </div>
         <audio id="audio-player" controls></audio>
     </footer>
