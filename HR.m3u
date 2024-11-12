@@ -1,0 +1,61 @@
+﻿# RADIO
+#EXTINF:0,bravo! KIDS
+https://audio.social3.hr/listen/bravo_kids/stream?3203
+#EXTINF:1,Radio Banovina
+https://audio.radio-banovina.hr:9998/stream/;*.mp3
+#EXTINF:1,Narodni Radio Goga
+https://cmr-hosting.com:7013/;
+#EXTINF:1,Radio Max
+https://azuracast.novi-net.net/listen/radiomax/radiomax.aac
+#EXTINF:1,Bravo
+http://c5.hostingcentar.com:8057/stream?6223
+#EXTINF:1,Extra FM
+https://audio.social3.hr/listen/extra_aac/stream?7590
+#EXTINF:1,Otvoreni Radio
+https://otvoreni.hr/UserDocsImages/stream.pls
+#EXTINF:1,Radio Dalmacija
+https://shoutcast.pondi.hr:9000/;stream/1
+#EXTINF:1,Radio Ćurak
+https://antares.dribbcast.com/proxy/curak?mp=/stream
+#EXTINF:1,Super Radio
+https://mcp1.mydataknox.com:8010/stream
+#EXTINF:1,Radio Stubica
+https://c2.hostingcentar.com/streams/radiostubica//;&type=mp3
+#EXTINF:1,Radio Kaj
+https://s8.iqstreaming.com:2020/stream/radio-kaj2
+#EXTINF:1,Radio Prolaznik
+https://s8.ssl-stream.com/prolaznik
+#EXTINF:1,Antena Zagreb 
+https://audio.social3.hr/listen/antena_aac/stream?7073
+#EXTINF:1,Radio Balkan Music
+https://media.srb-streaming.com/stream/radiobalkanmusic
+#EXTINF:1,Folky Ton Radio
+https://ec2s.crolive.com.hr:6035/stream
+#EXTINF:1,Radio 101
+https://live.radio101.hr:8000/;
+#EXTINF:1,Radio Megaton
+https://chopin.bizmusic.net/radio/8030/radio.mp3
+#EXTINF:1,Club Music Radio
+https://cmr-hosting.com:7001/;stream/1/;*.mp3
+#EXTINF:1,Radio 105
+https://azuracast.novi-net.net/radio/8050/radio105.aac
+#EXTINF:1,Radio Baranja
+https://s8.iqstreaming.com:2020/stream/radio_baranja/stream
+#EXTINF:1,ICV Radio
+https://radio.icv.hr/9300/stream
+#EXTINF:1,Radio Imotski
+https://radioimotski.radioca.st/stream?type=http&nocache=1715198098284/;*.mp3
+#EXTINF:1,Radio Zelina
+https://ec2s.crolive.com.hr:1690/stream
+#EXTINF:0,PRVI PROGRAM HRVATSKI RADIO
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1.mp3
+#EXTINF:0,DRUGI PROGRAM HRVATSKI RADIO
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3
+#EXTINF:0,TRECI PROGRAM HRVATSKI RADIO
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3.mp3
+#EXTINF:0,Radio Orahovica
+https://ec2s.crolive.com.hr/orahovica
+#EXTINF:0,Radio Nasice
+https://s8.iqstreaming.com:8038/stream
+#EXTINF:0,Hrvatski Radio Frankfurt
+https://ec2s.crolive.com.hr:1615/stream
